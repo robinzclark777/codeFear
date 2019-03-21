@@ -18,15 +18,7 @@ public class App {
 	 * birdsSinging(95, true) <b>---></b> true <br>
 	 */
 	public static boolean birdsSinging(int temp, boolean isSummer) {
-		int minTemp = 60;
-		int maxTemp = 90;
-		if (isSummer) {
-			maxTemp = 100;
-		}
-		if (temp > maxTemp || temp < minTemp) {
-			return false;
-		}
-		return true;
+		return (isSummer) ? (temp <= 100 && temp >= 60) : (temp <= 90 && temp >= 60);
 	}
 
 	// ----------------------STARTING POINT OF PROGRAM. IGNORE BELOW
