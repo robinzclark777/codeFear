@@ -17,10 +17,7 @@ public class App {
 	 * isOrdered(1, 1, 2, true) <b>---></b> true <br>
 	 */
 	public static boolean isOrdered(int first, int second, int third, boolean itsOk) {
-		if (itsOk) {
-			return (second < third);
-		}
-		return (first < second && second < third);
+		return itsOk ? (second < third) : (first < second && second < third);
 	}
 
 	// ----------------------STARTING POINT OF PROGRAM. IGNORE BELOW
