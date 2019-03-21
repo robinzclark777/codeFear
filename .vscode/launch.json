@@ -1,0 +1,154 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_01>",
+      "request": "launch",
+      "mainClass": "assignment_01.App",
+      "projectName": "assignment_01"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_02>",
+      "request": "launch",
+      "mainClass": "assignment_02.App",
+      "projectName": "assignment_02"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_03>",
+      "request": "launch",
+      "mainClass": "assignment_03.App",
+      "projectName": "assignment_03"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_04>",
+      "request": "launch",
+      "mainClass": "assignment_04.App",
+      "projectName": "assignment_04"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_05>",
+      "request": "launch",
+      "mainClass": "assignment_05.App",
+      "projectName": "assignment_05"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_06>",
+      "request": "launch",
+      "mainClass": "assignment_06.App",
+      "projectName": "assignment_06"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_07>",
+      "request": "launch",
+      "mainClass": "assignment_07.App",
+      "projectName": "assignment_07"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_08>",
+      "request": "launch",
+      "mainClass": "assignment_08.App",
+      "projectName": "assignment_08"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_09>",
+      "request": "launch",
+      "mainClass": "assignment_09.App",
+      "projectName": "assignment_09"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_10>",
+      "request": "launch",
+      "mainClass": "assignment_10.App",
+      "projectName": "assignment_10"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_11>",
+      "request": "launch",
+      "mainClass": "assignment_11.App",
+      "projectName": "assignment_11"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_12>",
+      "request": "launch",
+      "mainClass": "assignment_12.App",
+      "projectName": "assignment_12"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_13>",
+      "request": "launch",
+      "mainClass": "assignment_13.App",
+      "projectName": "assignment_13"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_14>",
+      "request": "launch",
+      "mainClass": "assignment_14.App",
+      "projectName": "assignment_14"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_15>",
+      "request": "launch",
+      "mainClass": "assignment_15.App",
+      "projectName": "assignment_15"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_16>",
+      "request": "launch",
+      "mainClass": "assignment_16.App",
+      "projectName": "assignment_16"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_17>",
+      "request": "launch",
+      "mainClass": "assignment_17.App",
+      "projectName": "assignment_17"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_18>",
+      "request": "launch",
+      "mainClass": "assignment_18.App",
+      "projectName": "assignment_18"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_19>",
+      "request": "launch",
+      "mainClass": "assignment_19.App",
+      "projectName": "assignment_19"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<assignment_n>",
+      "request": "launch",
+      "mainClass": "assignment_n.App",
+      "projectName": "assignment_n"
+    }
+  ]
+}
