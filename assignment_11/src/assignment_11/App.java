@@ -18,7 +18,11 @@ public class App {
 	 */
 	
 	public static String repeatChar(String str) {
-		return str;
+		String newStr = "";
+		for (int i = 0; i < str.length(); i++) {
+			newStr = newStr + str.charAt(i) + str.charAt(i);
+		}
+		return newStr;
 		
 	}
 
