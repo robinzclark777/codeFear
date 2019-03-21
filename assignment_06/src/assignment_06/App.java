@@ -17,7 +17,7 @@ public class App {
 		isCool(24) <b>---></b> false <br>
 	 */
 		public static boolean isCool(int n) {
-			return true;
+			return (n % 11 == 0 || n % 11 == 1); 
 		}
 
 	
