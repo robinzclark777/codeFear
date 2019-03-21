@@ -20,18 +20,18 @@ public class App {
 	 */
 
 	public static String starKill(String str) {
-		System.out.println(str);
+		int len = str.length();
 		String result = "";
 		boolean sawStar = false;
-		for (int i = 0; i < str.length(); i++) {
-			String c = "" + str.charAt(i);
+		for (int i = 0; i < len; i++) {
+			char c = str.charAt(i);
 			if (sawStar) {
-				if (!c.equals("*")) {
+				if (c != '*') {
 					sawStar = false;
 				}
 				continue;
 			}
-			if (!c.equals("*")) {
+			if (c != '*') {
 				sawStar = false;
 				result = result + c;
 			} else {
